@@ -15,7 +15,7 @@ import sys
 
 ROAST = (
     "My agent apologized for the bug, fixed it in four minutes, then "
-    "shipped the same bug back in the next commit and called it "
+    "shipped that same bug back in the next commit and called it "
     "'iteration'."
 )
 
